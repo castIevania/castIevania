@@ -1,7 +1,7 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=ennlo&color=DB6A5C&base=5834&style=flat-square&label=+★+)
+![](https://komarev.com/ghpvc/?username=ennlo&color=8DA3C1&base=5834&style=flat-square&label=+★+)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ytli9u7trg8a0ujmzzshj33yn&cover_image=true&theme=natemoo-re&show_offline=true&background_color=DB6A5C&interchange=true&bar_color=DB6A5C&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ytli9u7trg8a0ujmzzshj33yn&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ytli9u7trg8a0ujmzzshj33yn&cover_image=true&theme=natemoo-re&show_offline=true&background_color=8DA3C1&interchange=true&bar_color=8DA3C1&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ytli9u7trg8a0ujmzzshj33yn&redirect=true)
 
-![](https://files.catbox.moe/7xoy54.png)
+![](https://files.catbox.moe/8y0ajy.png)
