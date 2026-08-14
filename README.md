@@ -11,7 +11,7 @@
     </tr>
   </table>
 
-<div align="center">
+<div align="right">
   
 <details>
   
