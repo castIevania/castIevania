@@ -15,14 +15,8 @@
   
 <details>
   
-  <summary> ${\textsf{\color{#767676} 𖣐}}$ ${\textsf{\color{#eeece4}  click 4 ext }}$ </summary>
+  <summary> ${\textsf{\color{#767676} 𖣐}}$ ${\textsf{\color{#eeece4}  extended }}$ </summary>
 
-<details>
-  
-  <summary> click 4 ext </summary>
-
-sry get scammed
-
-</details>
+${\textsf{\color{#eeece4} who let the dogs out }}$ </br>
 
 </details>
