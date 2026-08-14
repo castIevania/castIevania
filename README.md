@@ -1,5 +1,22 @@
+<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_3831.jpeg" width="275" align="left">
+
+![](https://komarev.com/ghpvc/?username=ennlo&color=EEECE4&base=5834&style=flat-square&label=　+　+　+　+　+　+　+　+　+　+　+　+　+　) 　　　　　　 ![](https://github.com/user-attachments/assets/590092d9-c658-4f8e-8d2a-a9393e8ac0ba)
+
+<table>
+    <tr>
+      <td>
+     ${\textsf{\color{#eeece4}is it wickedness?}}$　
+   ${\textsf{\color{#eeece4} is  it  weakness?}}$ <br>
+      </td>
+    </tr>
+  </table>
+
 <div align="center">
+  
+<details>
+  
+  <summary> ${\textsf{\color{#767676} 𖣐}}$ ${\textsf{\color{#eeece4}  click 4 ext }}$ </summary>
 
-![](https://komarev.com/ghpvc/?username=ennlo&color=CD2335&base=5834&style=flat-square&label=　+SOULS+　)
+nothing here yet
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grenze_Gotisch&weight=175&size=10&pause=500&color=CD2335&center=true&vCenter=true&width=435&lines=Imagination+is+where+all+our+fear+originates%2C;it+is+the+mother+of+terror+and+mankind's+greatest+weakness.)](https://git.io/typing-svg)
+</details>
