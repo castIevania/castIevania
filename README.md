@@ -17,6 +17,12 @@
   
   <summary> ${\textsf{\color{#767676} 𖣐}}$ ${\textsf{\color{#eeece4}  click 4 ext }}$ </summary>
 
-nothing here yet
+<details>
+  
+  <summary> click 4 ext </summary>
+
+sry get scammed
+
+</details>
 
 </details>
